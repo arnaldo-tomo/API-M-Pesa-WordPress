@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wc Mpesa Payment Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-15 18:45+0000\n"
+"PO-Revision-Date: 2021-04-15 18:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.7"
+
+#: wc-mpesa-payment-gateway.php:78 wc-mpesa-payment-gateway.php:129
+msgid "Mpesa for WooCommerce"
+msgstr "Mpesa para WooCommerce"
+
+#: wc-mpesa-payment-gateway.php:79
+msgid "Accept Mpesa Payments for WooCommerce"
+msgstr "Receba Pagamentos Mpesa no WooCommerce"
+
+#: wc-mpesa-payment-gateway.php:120
+msgid "Enable/Disable"
+msgstr "Ativar/Desativar"
+
+#: wc-mpesa-payment-gateway.php:122
+msgid "Enable Mpesa payment gateway"
+msgstr "Activar módulo de pagamentos Mpesa"
+
+#: wc-mpesa-payment-gateway.php:126
+msgid "Title"
+msgstr "Título"
+
+#: wc-mpesa-payment-gateway.php:128
+msgid "This controls the title which the user sees during checkout"
+msgstr ""
+"Isso controla o título que o usuário vê durante a finalização da compra"
+
+#: wc-mpesa-payment-gateway.php:133
+msgid "Customer Message"
+msgstr "Descrição para o cliente"
+
+#: wc-mpesa-payment-gateway.php:135
+msgid "Pay via mpesa"
+msgstr "Pagar via Mpesa"
+
+#: wc-mpesa-payment-gateway.php:138
+msgid "API Key"
+msgstr "Chave da API"
+
+#: wc-mpesa-payment-gateway.php:143
+msgid "Public Key"
+msgstr "Chave Pública"
+
+#: wc-mpesa-payment-gateway.php:148
+msgid "Service Provider Code"
+msgstr "Código do Provedor de Serviços"
+
+#: wc-mpesa-payment-gateway.php:150
+msgid "Use 171717 for testing"
+msgstr "Use 171717  no ambiente de teste."
+
+#: wc-mpesa-payment-gateway.php:154
+msgid "Test Mode"
+msgstr "Modo de Teste"
+
+#: wc-mpesa-payment-gateway.php:156
+msgid "Enable Test Environment"
+msgstr "Ativar Ambiente de Teste"
+
+#: wc-mpesa-payment-gateway.php:174
+msgid "<br/> TEST MODE ENABLED."
+msgstr "<br/> MODO DE TESTE ATIVO"
+
+#: wc-mpesa-payment-gateway.php:193
+msgid "Mpesa number"
+msgstr "Número da conta"
+
+#: wc-mpesa-payment-gateway.php:194
+msgid "ex: 84 123 4567"
+msgstr "ex: 84 123 4567"
+
+#: wc-mpesa-payment-gateway.php:205
+msgid "Currency not supported!"
+msgstr "Moeda não suportada"
+
+#: wc-mpesa-payment-gateway.php:211
+msgid "Phone number is required!"
+msgstr "Número do telefone necessário!"
+
+#: wc-mpesa-payment-gateway.php:226
+msgid "Phone number is incorrect!"
+msgstr "O numero do telefone está incorrecto!"
+
+#: wc-mpesa-payment-gateway.php:250
+msgid "Payment Information"
+msgstr "Instruções de Pagamento"
+
+#: wc-mpesa-payment-gateway.php:251
+msgid ""
+"<ul><li>Check your details before pressing the button below.</li><li>Your "
+"phone number MUST be registered with MPesa (and Active) for this to work."
+"</li><li>You will receive a pop-up on the phone requesting payment "
+"confirmation.</li><li>Enter your service PIN (MPesa) to continue.</li><li>"
+"You will receive a confirmation message shortly thereafter</li></ul>"
+msgstr ""
+"<ul><li>Verifique seus detalhes antes de pressionar o botão abaixo.</li><li>"
+"O seu número de telefone DEVE estar registrado na MPesa (e Activo) para que "
+"isso funcione.</li><li>Você receberá um pop-up no telefone solicitando a "
+"confirmação do pagamento.</li><li>Digite o PIN do seu serviço (MPesa) para "
+"continuar.</li><li>Você receberá uma mensagem de confirmação logo em "
+"seguida</li></ul>"
+
+#: wc-mpesa-payment-gateway.php:254
+msgid "Payment request sent!"
+msgstr "Solicitação de pagamento enviada!"
+
+#: wc-mpesa-payment-gateway.php:255
+msgid "Check your mobile phone and enter your PIN code to confirm payment ..."
+msgstr ""
+"Verifique seu telemóvel e digite seu código PIN para confirmar o pagamento..."
+
+#: wc-mpesa-payment-gateway.php:258
+msgid "Payment received!"
+msgstr "Pagamento recebido!"
+
+#: wc-mpesa-payment-gateway.php:259
+msgid "Your payment has been received and your order will be processed soon."
+msgstr "Seu pagamento foi recebido e seu pedido será processado em breve."
+
+#: wc-mpesa-payment-gateway.php:262
+msgid "Payment timeout exceeded!"
+msgstr "Tempo limite de pagamento excedido!"
+
+#: wc-mpesa-payment-gateway.php:263
+msgid "Use your browser's back button and try again."
+msgstr "Use o botão Voltar do navegador e tente novamente."
+
+#: wc-mpesa-payment-gateway.php:266
+msgid "Payment failed!"
+msgstr "O pagamento falhou!"
+
+#: wc-mpesa-payment-gateway.php:267
+msgid "Try again or use your browser's back button to change the number."
+msgstr ""
+"Tente novamente ou use o botão Voltar do navegador para alterar o número."
+
+#: wc-mpesa-payment-gateway.php:272 templates/payment.php:8
+msgid "Pay"
+msgstr "Pagar"
+
+#: wc-mpesa-payment-gateway.php:378
+msgid "Invalid Shortcode Used!"
+msgstr "Shortcode inválido"
+
+#: wc-mpesa-payment-gateway.php:381
+msgid "Unable to handle the request due to a temporary overloading!"
+msgstr "Impossível processar o pedido devido à sobrecarga temporária!"
+
+#: wc-mpesa-payment-gateway.php:384
+msgid "Customer Account Status Not Active!"
+msgstr "A conta MPesa não está ativa!"
+
+#: wc-mpesa-payment-gateway.php:387
+msgid "Initiator authentication error!"
+msgstr "Erro de autenticação! Veri"
+
+#: wc-mpesa-payment-gateway.php:390
+msgid "Insufficient balance!"
+msgstr "Saldo insuficiente!"
+
+#: wc-mpesa-payment-gateway.php:398
+msgid "API or Public key is not authorized!"
+msgstr "As credências da API não são válidas!"
+
+#: wc-mpesa-payment-gateway.php:400
+msgid "Bad API Key!"
+msgstr "A chave pública não é válida!"
+
+#: wc-mpesa-payment-gateway.php:404
+msgid "Payment failed"
+msgstr "Falha no pagamento"
+
+#. Name of the plugin
+msgid "Payment Gateway - Mpesa for WooCommerce"
+msgstr "Payment Gateway - Mpesa for WooCommerce"
+
+#. Description of the plugin
+msgid ""
+"Receive payments directly to your store through the Vodacom Mozambique M-"
+"Pesa."
+msgstr ""
+"Receba pagamentos diretamente em sua loja através da API M-Pesa da Vodacom "
+"Moçambique."
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wc-m-pesa-payment-gateway/"
+msgstr "https://wordpress.org/plugins/wc-m-pesa-payment-gateway/"
+
+#. Author of the plugin
+msgid "karson <karson@turbohost.co.mz>"
+msgstr "karson <karson@turbohost.co.mz>"
+
+#. Author URI of the plugin
+msgid "http://karsonadam.com"
+msgstr "http://karsonadam.com"

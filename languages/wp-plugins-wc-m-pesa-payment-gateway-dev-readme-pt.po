@@ -1,0 +1,71 @@
+# Translation of Plugins - Mobile M-Pesa Payment Gateway - Development Readme (trunk) in Portuguese (Portugal)
+# This file is distributed under the same license as the Plugins - Mobile M-Pesa Payment Gateway - Development Readme (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-14 16:35+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.3.1\n"
+"Language: pt\n"
+"Project-Id-Version: Plugins - Mobile M-Pesa Payment Gateway - Development Readme (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: Karson <karson@turbohost.co>\n"
+"Language-Team: \n"
+
+#. Short description.
+msgid "Mobile M-Pesa Payment Gateway plugin allows you to receive payments directly to your store through the Vodacom Mozambique M-Pesa API."
+msgstr "O plugin Mobile M-Pesa Payment Gateway permite que você receba pagamentos diretamente em sua loja através da API M-Pesa da Vodacom Moçambique."
+
+#. Plugin name.
+msgid "Mobile M-Pesa Payment Gateway"
+msgstr "Mobile M-Pesa Payment Gateway"
+
+#. Found in installation paragraph.
+msgid "In case the automatic installation doesn’t work, download the plugin from here via the Download-button. Unpack the archive and load the folder via FTP into the directory wp-content/plugins of your WordPress installation. Go to Plugins &gt; Installed plugins and click Activate on Mobile M-Pesa Payment Gateway."
+msgstr "Caso a instalação automática não funcione, faça o download do plug-in aqui usando o botão Download. Descompacte o arquivo e carregue a pasta via FTP no diretório wp-content/plugins da sua instalação do WordPress. Vá para Plugins & gt; Plug-ins instalados e clique em Ativar no Mobile M-Pesa Payment Gateway."
+
+#. Found in installation list item.
+msgid "Configure your Mobile M-Pesa Payment Gateway settings using credentials available on https://developer.mpesa.vm.co.mz/"
+msgstr "Configure o Mobile M-Pesa Payment Gateway usando credenciais disponíveis no https://developer.mpesa.vm.co.mz/"
+
+#. Found in installation list item.
+msgid "Click on the Mobile M-Pesa Payment Gateway from the available Checkout "
+msgstr "Clique em Mobile M-Pesa Payment Gateway nas opções de pagamento disponíveis "
+
+#. Found in installation list item.
+msgid "Click on 'WooCommerce &gt; Settings' from the left menu and click the 'Checkout' tab."
+msgstr "Clique em 'WooCommerce &gt; Configurações' no menu esquerdo e clique na guia 'Pagamentos'."
+
+#. Found in installation list item.
+msgid "Click on Install Now on Mobile M-Pesa Payment Gateway to install the plugin on your site and activate the plugin."
+msgstr "Clique em Instalar agora no Mobile M-Pesa Payment Gateway para instalar o plugin em seu site em seguida clique em ativar."
+
+#. Found in installation list item.
+msgid "In the search box type Mobile M-Pesa Payment Gateway."
+msgstr "Na caixa de pesquisa digite Mobile M-Pesa Payment Gateway."
+
+#. Found in installation list item.
+msgid "Click on 'Plugins &gt; Add New' from the left menu."
+msgstr "Clique em 'Plugins &gt; Add New' no menu esquerdo."
+
+#. Found in installation list item.
+msgid "Login to your WordPress Dashboard"
+msgstr "Faça login no seu Painel WordPress"
+
+#. Found in installation header.
+msgid "Manual Installation"
+msgstr "Instalação Manual"
+
+#. Found in installation header.
+msgid "Automatic Installation"
+msgstr "Instalação Automática"
+
+#. Found in description paragraph.
+msgid ""
+"Mobile M-Pesa Payment Gateway plugin allows you to receive payments directly to your store through the Vodacom Mozambique M-Pesa API.\n"
+"Through Mobile M-Pesa Payment Gateway, shoppers at your store can purchase products or services at your store using a phone number associated with the M-Pesa account."
+msgstr ""
+"O plugin Mobile M-Pesa Payment Gateway permite que receba pagamentos diretamente em sua loja através da API M-Pesa da Vodacom Moçambique.\n"
+"Por meio do Mobile M-Pesa Payment Gateway, Os visitantes de sua loja virtual podem comprar produtos ou serviços usando um número de telefone associado à conta M-Pesa."
